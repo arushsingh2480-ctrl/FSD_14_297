@@ -1,0 +1,8 @@
+import {mkdir,rm} from "fs/promises";
+//await mkdir("uploads");
+//await mkdir("uploads/images");
+//await mkdir("docs/resumes/data",{recursive:true});
+//removes only data folder
+//await rm("docs/resumes/data",{recursive:true})
+//remove main folder and sub folder
+await rm("docs",{recursive:true});

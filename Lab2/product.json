@@ -1,0 +1,26 @@
+[
+  {
+    "id": 12,
+    "name": "amazon",
+    "price": 45,
+    "qty": 2
+  },
+  {
+    "id": null,
+    "name": "flipkart",
+    "price": null,
+    "qty": null
+  },
+  {
+    "id": null,
+    "name": "meesho",
+    "price": null,
+    "qty": null
+  },
+  {
+    "id": null,
+    "name": "swiggy",
+    "price": null,
+    "qty": null
+  }
+]
